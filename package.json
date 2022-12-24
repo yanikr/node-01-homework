@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nanoid": "^3.0.0",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  },
+  "name": "01-homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanikr/node-01-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanikr/node-01-homework/issues"
+  },
+  "homepage": "https://github.com/yanikr/node-01-homework#readme",
+  "description": ""
+}
